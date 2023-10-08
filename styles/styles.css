@@ -43,11 +43,20 @@ body {
 .subtitle {
     font-weight: 400;
     font-style: italic;
+    display: flex;
+    justify-content: space-between;
+}
+
+.subtitle p{
+    margin: 0;
+    padding: 0;
 }
 
 .header-date {
     font-family: "CSTM Xprmntl 02 Italic";
     font-weight: 400;
+    font-size: 49px;
+    line-height: 56px;
 }
 
 .biography {
@@ -57,6 +66,9 @@ body {
     font-size: 23px;
     line-height: 27px;
     text-align: left;
+    display: block;
+    width: 509px;
+    margin: 0 auto;
 }
 
 /*Main*/
@@ -77,6 +89,7 @@ body {
     font-size: 76px;
     line-height: 79px;
     text-align: center;
+    letter-spacing: 4.8px;
 }
 
 .main-title span {
@@ -91,6 +104,8 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .card-item{
