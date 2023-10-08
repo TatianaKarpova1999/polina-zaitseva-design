@@ -29,21 +29,21 @@
 }
 body {
     font-family: "Helvetica", sans-serif;
-    font-size: 32px;
-    line-height: 37px;
+    font-size: 23px;
+    line-height: 27px;
     background-color:rgba(0, 0, 0, 1);
     color: rgba(255, 255, 255, 1);
     margin: 0 auto;
 }
 
 .container{
-    width: 1644px;
+    width: 1200px;
     margin: 0 auto;
 }
 /*Header*/
 .page-header {
-    padding-top: 22px;
-    margin-bottom: 432px;
+    padding-top: 16px;
+    margin-bottom: 315px;
 }
 
 .subtitle {
@@ -61,33 +61,33 @@ body {
 .header-date {
     font-family: "CSTM Xprmntl 02 Italic";
     font-weight: 400;
-    font-size: 49px;
-    line-height: 56px;
+    font-size: 35px;
+    line-height: 40px;
     display: flex;
     justify-content: space-between;
-    width: 494px;
-    margin-bottom: 12px;
+    width: 360px;
+    margin-bottom: 8px;
 }
 
 .biography {
     font-family: "Helvetica";
     font-weight: 400;
     font-style: italic;
-    font-size: 23px;
-    line-height: 27px;
+    font-size: 16px;
+    line-height: 20px;
     text-align: left;
-    width: 509px;
-    letter-spacing: 0.4px;
+    width: 372px;
+    letter-spacing: 0.3px;
 }
 
 /*Main*/
 .subtitle h2 {
     font-weight: 400;
-    font-size: 32px;
-    line-height: 37px;
+    font-size: 23px;
+    line-height: 27px;
     margin: 0;
     padding: 0;
-    margin-bottom: 5px;
+    margin-bottom: 4px;
 }
 
 .contacts-link{
@@ -98,10 +98,10 @@ body {
 .main-title {
     font-family: "Neutral Face";
     font-weight: 400;
-    font-size: 76px;
-    line-height: 79px;
+    font-size: 55px;
+    line-height: 58px;
     text-align: center;
-    letter-spacing: 4.8px;
+    letter-spacing: 3px;
     margin: 0;
     padding: 0;
 }
@@ -109,8 +109,8 @@ body {
 .main-title span {
     font-family: "CSTM Xprmntl 02 Italic";
     font-weight: 400;
-    font-size: 85px;
-    line-height: 90px;
+    font-size: 62px;
+    line-height: 66px;
 }
 
 /*Catalog*/
@@ -124,7 +124,7 @@ body {
 }
 
 .card-item{
-    width: 540px;
+    width: 394px;
     text-align: center;
 }
 
@@ -141,25 +141,25 @@ display: block;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    height: 873px;
+    height: 637px;
 }
 
 .card-title{
     font-family: "Helvetica";
     font-weight: 400;
-    font-size: 25px;
-    line-height: 29px;
+    font-size: 18px;
+    line-height: 21px;
     color: rgba(0, 0, 0, 1);
     display: block;
-    width: 238px;
-    margin: 36px auto;
+    width: 174px;
+    margin: 26px auto;
 }
 
 .card-date {
     font-family: "CSTM Xprmntl 02 Italic";
     font-weight: 400;
-    font-size: 25px;
-    line-height: 29px;
+    font-size: 18px;
+    line-height: 21px;
     color: rgba(0, 0, 0, 1);
     margin-bottom: 36px;
 }
