@@ -27,6 +27,10 @@
     src: url("../fonts/NeutralFace.woff2") format("woff2");
     font-display: swap;
 }
+html {
+    height: 100%;
+}
+
 body {
     font-family: "Helvetica", sans-serif;
     font-size: 23px;
